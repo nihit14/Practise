@@ -10,7 +10,7 @@ public:
     void reset()
     { // sets the length to 0;
         m_next=0;
-
+	// constructor
     }
     bool push(int a)
     {
