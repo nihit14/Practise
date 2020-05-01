@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1554884492 source:/home/bins/cpp/10_2/main.cpp
+	<iostream>
+	<string>
+	"creature.h"
+	"point2D.h"
+
+1554885273 /home/bins/cpp/10_2/creature.h
+	<iostream>
+	<string>
+	"point2D.h"
+
+1554885254 /home/bins/cpp/10_2/point2D.h
+	<iostream>
+

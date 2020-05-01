@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1552987858 source:/home/bins/cpp/2_14/2_14.cpp
+	<iostream>
+
+1552987886 source:/home/bins/cpp/2_14/2_14_1.cpp
+	<iostream>
+

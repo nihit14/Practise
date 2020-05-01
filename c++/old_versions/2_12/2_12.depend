@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1552984336 source:/home/bins/cpp/2_12/2_12.cpp
+
+1552984926 source:/home/bins/cpp/2_12/2_12_1.cpp
+	<iostream>
+	"calc.h"
+
+1552985043 /home/bins/cpp/2_12/calc.h
+
